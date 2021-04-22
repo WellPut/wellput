@@ -6,7 +6,7 @@ BeginPackage["WellPut`"]
 
 Q::usage = "Q[a] represents the charge of particle a in units of the electric charge";
 
-el::usage = "el represents the electric coupling constants";
+el::usage = "el represents the electric coupling constant";
 
 wellPutInfo::usage =
 "Describes all available functions";
@@ -72,7 +72,7 @@ m::usage = "m[a] represents the mass of particle a";
 
 mu::usage = "mu is the scale of dimensional regularisation";
 
-sum::usage "sum[...,{f1, f2, ...}] represents the sum over f1, f2, ... .
+sum::usage = "sum[...,{f1, f2, ...}] represents the sum over f1, f2, ... .
 If the sum specification starts with f0, a GIM like mechanism is performed";
 
 replaceFunctions::usage =
