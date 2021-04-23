@@ -9,7 +9,7 @@
 The file `example.m` includes several detailed examples to demonstrate how to use the code.
 
 ## Citation
-If you use `WellPut` please cite us! To get the `BibTeX` entries, click on: [inspirehep query](https://inspirehep.net/search?p=arxiv:2104.XXXXX&of=hx) 
+If you use `WellPut` please cite us! To get the `BibTeX` entries, click on: [inspirehep query](https://inspirehep.net/search?p=arxiv:2104.10930&of=hx) 
 
 
 

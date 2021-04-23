@@ -49,8 +49,8 @@ All particles are given as a list of the form {{particleid1, massinfo1, charge1}
 E.g. Quarks = {{u, 0, 2/3}, {c, 0, 2/3}, {t, Null, 2/3}} would imply that 3 quarks appear in the sum,
 where u, c and t are symbols that identify the particles. The mass of u and c will be treated as zero
 in the matching calculation, while the mass of the top quark is kept. u, c and t all have charge 2/3.
-For Quarks, a GIM like mechanism will be performed on the first fermion on the list.
-The charges of the particles have to such that they contribute in the diagrams in arxiv:0421.???? .
+For Quarks, a GIM-like mechanism will be performed on the first fermion on the list.
+The charges of the particles have to be such that they contribute in the diagrams in arxiv:0421.10930 .
 
 PerformSum performs the sums over internal particles if set to True.
 
